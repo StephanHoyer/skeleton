@@ -1,0 +1,24 @@
+{
+  "name": "namepage",
+  "version": "0.0.1",
+  "description": "Login and register page for fastfish name domains",
+  "main": "manage.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.fastfish.eu:fastfishag/namepage.git"
+  },
+  "author": "Fastfish Developers <dev@fastfish.eu>",
+  "license": "Fastfish License",
+  "dependencies": {
+    "gleeman-express-http": "~0.2.0",
+    "gleeman-commander": "0.1.0",
+    "gleeman": "~0.2.0",
+    "gleeman-config": "~0.1.0",
+    "gleeman-express": "~0.1.1",
+    "gleeman-express-css": "~0.1.3",
+    "gleeman-express-js": "~0.1.2"
+  }
+}

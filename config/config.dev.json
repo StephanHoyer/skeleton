@@ -1,0 +1,16 @@
+{
+  "style": {
+    "urlPrefix": "/style",
+    "combine": false,
+    "combineName": "foo.css"
+  },
+  "script": {
+    "urlPrefix": "/script",
+    "combine": false,
+    "combineName": "foo.js"
+  },
+  "env": "development",
+  "server": {
+    "port": 3000
+  }
+}
